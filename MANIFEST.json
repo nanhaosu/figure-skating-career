@@ -1,88 +1,66 @@
 {
   "schema_version": 1,
-  "package_name": "friend-beta-20260930-v2",
-  "staged_at_utc": "2026-09-30T08:38:58.4599645Z",
-  "base_head": "7069e4bcc52ce7496dd9b18471868c3399119245",
-  "source_head_at_staging": "7069e4bcc52ce7496dd9b18471868c3399119245",
+  "package_name": "friend-beta-20261002-qa11f-candidate",
+  "staged_at_utc": "2026-10-02T13:23:31.4724200Z",
+  "source_head_at_staging": "00a7b14617c6fe6e32f51cf12eb155072bee5e29",
   "working_tree_modified": true,
-  "tracked_changed_paths": 54,
-  "source_identity_note": "HEAD is only the base revision. This candidate includes uncommitted working-tree changes; the commit does not represent the final source tree. File hashes identify the actual staged artifacts.",
-  "expected_pck_sha256": "15B449F879AEC03AB4B738893D374951F95FF9323DA1DD14CEF74997F840139B",
-  "gate_status": {
-    "final_regression": {
-      "status": "verified",
-      "evidence": ".sept30-final-v2-full.log: 891 passed; supervisor session 9118 exit 0; outer/inner unexpected error lines 0; source frozen since V2 export.",
-      "origin": "explicit-operator-input-not-inferred"
-    },
-    "desktop_browser": {
-      "status": "awaiting-desktop-browser",
-      "evidence": "",
-      "origin": "default-pending"
-    },
-    "hosting": {
-      "status": "awaiting-hosting",
-      "evidence": "",
-      "origin": "default-pending"
-    }
-  },
-  "gate_status_note": "States are pending by default or explicitly supplied by the release owner. This script does not run regression/browser/hosting checks or infer release approval. Stage defaults unspecified gates back to pending.",
-  "release_decision": "not-made-by-this-script",
-  "payload_file_count": 14,
-  "archive_entry_count": 15,
-  "payload_total_bytes": 55283150.0,
-  "manifest_integrity_note": "MANIFEST.json is the only file excluded from self-hashing. ZIP verification checks its exact bytes and SHA256 against the staged manifest, as it does for every payload file.",
+  "expected_pck_sha256": "217FE280999EE1D4D90FD9CE1F5D25A550DB4351E64E8596289EC74C7780DC2B",
+  "release_state": "github_pages_release",
+  "regression_evidence": ".superpowers/sdd/2026-09-30-playtest-feedback-remediation/qa-integration-v11f/full-supervised.log",
+  "browser_evidence": ".superpowers/sdd/2026-09-30-playtest-feedback-remediation/progress.md",
+  "hosting_state": "codex/friend-beta-pages",
   "files": [
     {
       "name": "index.html",
-      "source": "build/web-candidate/index.html",
+      "source": "build/remediation-20261002-qa11f/index.html",
       "bytes": 5926,
-      "sha256": "AE6235F24C4825FD43B024B8AF93F98B4017D5B265CAB87C9C3FD57E5BFF7B7B"
+      "sha256": "6D7A6D460450FB2FB56AC64CE7EC6E945F4891F5F340B46ECC514E7E79BFB602"
     },
     {
       "name": "index.js",
-      "source": "build/web-candidate/index.js",
+      "source": "build/remediation-20261002-qa11f/index.js",
       "bytes": 282746,
       "sha256": "A802E894431A7225A243A9C6F607F4449AEA51699BD24F272745B3C8D453D684"
     },
     {
       "name": "index.wasm",
-      "source": "build/web-candidate/index.wasm",
+      "source": "build/remediation-20261002-qa11f/index.wasm",
       "bytes": 39514754,
       "sha256": "FC74679E3B97F76878947FCD4FBE1268CBFA6188182A2E33BBC3F5DC9BFA57D0"
     },
     {
       "name": "index.pck",
-      "source": "build/web-candidate/index.pck",
-      "bytes": 15321748,
-      "sha256": "15B449F879AEC03AB4B738893D374951F95FF9323DA1DD14CEF74997F840139B"
+      "source": "build/remediation-20261002-qa11f/index.pck",
+      "bytes": 15470572,
+      "sha256": "217FE280999EE1D4D90FD9CE1F5D25A550DB4351E64E8596289EC74C7780DC2B"
     },
     {
       "name": "index.audio.worklet.js",
-      "source": "build/web-candidate/index.audio.worklet.js",
+      "source": "build/remediation-20261002-qa11f/index.audio.worklet.js",
       "bytes": 7298,
       "sha256": "5B476A9C9CE642C0EE4256436D1BC31D9C38F868ACA0F9A8E2A57C18D2DEC2A3"
     },
     {
       "name": "index.audio.position.worklet.js",
-      "source": "build/web-candidate/index.audio.position.worklet.js",
+      "source": "build/remediation-20261002-qa11f/index.audio.position.worklet.js",
       "bytes": 2973,
       "sha256": "BE33985BC7160D6BF9646F259CD86B259CD67B02CCB297EE5C44F8AC84327BC8"
     },
     {
       "name": "index.png",
-      "source": "build/web-candidate/index.png",
+      "source": "build/remediation-20261002-qa11f/index.png",
       "bytes": 21443,
       "sha256": "3CB4495C0B98DFBE4B663CBF2B6836473572339BEB66D902367893162A70BE0E"
     },
     {
       "name": "index.icon.png",
-      "source": "build/web-candidate/index.icon.png",
+      "source": "build/remediation-20261002-qa11f/index.icon.png",
       "bytes": 5700,
       "sha256": "AD3C35AD0FACF487C618204BD98DB543034FC95224EADC7F08C7A9FF38D5B3B5"
     },
     {
       "name": "index.apple-touch-icon.png",
-      "source": "build/web-candidate/index.apple-touch-icon.png",
+      "source": "build/remediation-20261002-qa11f/index.apple-touch-icon.png",
       "bytes": 11944,
       "sha256": "01D4F63E525941E06CE74F5187DAD030D20A8D52A07CE365AE4E94AF97A3B1F5"
     },
@@ -113,8 +91,8 @@
     {
       "name": "FRIEND_BETA_GUIDE.md",
       "source": "docs/playtest/FRIEND_BETA_GUIDE.md",
-      "bytes": 5436,
-      "sha256": "A9D0E6CF71F84E583530F10DFD32115A487A5E35B6444868FBFF134645E58915"
+      "bytes": 6217,
+      "sha256": "F398AD5AD4E3E0FFE3B6D66E5D14D7387DBB41D5F9CE83766022F4C633233403"
     }
   ]
 }
