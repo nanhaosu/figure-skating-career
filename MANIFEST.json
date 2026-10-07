@@ -1,98 +1,73 @@
 {
   "schema_version": 1,
-  "package_name": "friend-beta-20261002-qa11f-candidate",
-  "staged_at_utc": "2026-10-02T13:23:31.4724200Z",
-  "source_head_at_staging": "00a7b14617c6fe6e32f51cf12eb155072bee5e29",
+  "package_name": "friend-beta-20261007",
+  "source_head_at_staging": "15ace8b9c6ddba2693adb63fc16621c97b8251a2",
   "working_tree_modified": true,
-  "expected_pck_sha256": "217FE280999EE1D4D90FD9CE1F5D25A550DB4351E64E8596289EC74C7780DC2B",
-  "release_state": "github_pages_release",
-  "regression_evidence": ".superpowers/sdd/2026-09-30-playtest-feedback-remediation/qa-integration-v11f/full-supervised.log",
-  "browser_evidence": ".superpowers/sdd/2026-09-30-playtest-feedback-remediation/progress.md",
+  "expected_pck_sha256": "317F979DAE546E71DC40D4E9CF62A1C36AD61365B02D5AB4F920A278A62EE36E",
+  "release_state": "verified_release",
+  "regression_passed": 1030,
+  "regression_exit_code": 0,
+  "regression_evidence": "figure-skating-qa-ack-debug-20261007/test-runner-inner.log",
+  "browser_evidence": "docs/qa/2026-10-06-friend-playtest-candidate.md",
   "hosting_state": "codex/friend-beta-pages",
   "files": [
     {
-      "name": "index.html",
-      "source": "build/remediation-20261002-qa11f/index.html",
+      "name": "releases/friend-beta-20261007/index.html",
       "bytes": 5926,
-      "sha256": "6D7A6D460450FB2FB56AC64CE7EC6E945F4891F5F340B46ECC514E7E79BFB602"
+      "sha256": "88BFCF68651DD9BE2B6A492D8ACDE9D8872AF31ABFEE2E2C4E6622DDA18CD193"
     },
     {
-      "name": "index.js",
-      "source": "build/remediation-20261002-qa11f/index.js",
-      "bytes": 282746,
-      "sha256": "A802E894431A7225A243A9C6F607F4449AEA51699BD24F272745B3C8D453D684"
+      "name": "releases/friend-beta-20261007/index.js",
+      "bytes": 282805,
+      "sha256": "2200675EA15479007DAC96773C247D712D960B577E3206BBBBE85F3735AF8D2C"
     },
     {
-      "name": "index.wasm",
-      "source": "build/remediation-20261002-qa11f/index.wasm",
+      "name": "releases/friend-beta-20261007/index.wasm",
       "bytes": 39514754,
       "sha256": "FC74679E3B97F76878947FCD4FBE1268CBFA6188182A2E33BBC3F5DC9BFA57D0"
     },
     {
-      "name": "index.pck",
-      "source": "build/remediation-20261002-qa11f/index.pck",
-      "bytes": 15470572,
-      "sha256": "217FE280999EE1D4D90FD9CE1F5D25A550DB4351E64E8596289EC74C7780DC2B"
+      "name": "releases/friend-beta-20261007/index.pck",
+      "bytes": 15507004,
+      "sha256": "317F979DAE546E71DC40D4E9CF62A1C36AD61365B02D5AB4F920A278A62EE36E"
     },
     {
-      "name": "index.audio.worklet.js",
-      "source": "build/remediation-20261002-qa11f/index.audio.worklet.js",
+      "name": "releases/friend-beta-20261007/index.audio.worklet.js",
       "bytes": 7298,
       "sha256": "5B476A9C9CE642C0EE4256436D1BC31D9C38F868ACA0F9A8E2A57C18D2DEC2A3"
     },
     {
-      "name": "index.audio.position.worklet.js",
-      "source": "build/remediation-20261002-qa11f/index.audio.position.worklet.js",
+      "name": "releases/friend-beta-20261007/index.audio.position.worklet.js",
       "bytes": 2973,
       "sha256": "BE33985BC7160D6BF9646F259CD86B259CD67B02CCB297EE5C44F8AC84327BC8"
     },
     {
-      "name": "index.png",
-      "source": "build/remediation-20261002-qa11f/index.png",
+      "name": "releases/friend-beta-20261007/index.png",
       "bytes": 21443,
       "sha256": "3CB4495C0B98DFBE4B663CBF2B6836473572339BEB66D902367893162A70BE0E"
     },
     {
-      "name": "index.icon.png",
-      "source": "build/remediation-20261002-qa11f/index.icon.png",
+      "name": "releases/friend-beta-20261007/index.icon.png",
       "bytes": 5700,
       "sha256": "AD3C35AD0FACF487C618204BD98DB543034FC95224EADC7F08C7A9FF38D5B3B5"
     },
     {
-      "name": "index.apple-touch-icon.png",
-      "source": "build/remediation-20261002-qa11f/index.apple-touch-icon.png",
+      "name": "releases/friend-beta-20261007/index.apple-touch-icon.png",
       "bytes": 11944,
       "sha256": "01D4F63E525941E06CE74F5187DAD030D20A8D52A07CE365AE4E94AF97A3B1F5"
-    },
-    {
-      "name": "LICENSE",
-      "source": "LICENSE",
-      "bytes": 1077,
-      "sha256": "5CA2920D4F56954100C8F365461ABA7B6C6154DA49734F7B2703D9275AD49D11"
-    },
-    {
-      "name": "GODOT_LICENSE.txt",
-      "source": "build/license-notices-20260930/GODOT_LICENSE.txt",
-      "bytes": 1150,
-      "sha256": "A0ACC151E87517EE3411ACCE58CE99E17F636921B37C158F38F0B5ACAFD10DA2"
-    },
-    {
-      "name": "GODOT_COPYRIGHT.txt",
-      "source": "build/license-notices-20260930/GODOT_COPYRIGHT.txt",
-      "bytes": 95886,
-      "sha256": "FB19820452D75A13DC355C0BFBF6915AC07242F50BB45E58B8939B51F8C3F27D"
-    },
-    {
-      "name": "NOTO_CJK_LICENSE.txt",
-      "source": "build/license-notices-20260930/NOTO_CJK_LICENSE.txt",
-      "bytes": 5069,
-      "sha256": "F209E885213E05AE58680C2B2FBAD0C854F77EEC4033E3129F04A7271F12997D"
-    },
-    {
-      "name": "FRIEND_BETA_GUIDE.md",
-      "source": "docs/playtest/FRIEND_BETA_GUIDE.md",
-      "bytes": 6217,
-      "sha256": "F398AD5AD4E3E0FFE3B6D66E5D14D7387DBB41D5F9CE83766022F4C633233403"
     }
+  ],
+  "known_limits": [
+    "Full JGP federation quota and assignment rules remain incomplete",
+    "Independent Chrome, Edge and Firefox certification is incomplete",
+    "Large career saves may require a noticeable storage wait"
+  ],
+  "entrypoint": "index.html",
+  "game_entrypoint": "releases/friend-beta-20261007/index.html",
+  "license_files": [
+    "LICENSE",
+    "GODOT_LICENSE.txt",
+    "GODOT_COPYRIGHT.txt",
+    "NOTO_CJK_LICENSE.txt"
   ]
 }
