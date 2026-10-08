@@ -1,69 +1,77 @@
 {
   "schema_version": 1,
-  "package_name": "friend-beta-20261007",
+  "package_name": "friend-beta-20261008",
   "source_head_at_staging": "15ace8b9c6ddba2693adb63fc16621c97b8251a2",
   "working_tree_modified": true,
-  "expected_pck_sha256": "317F979DAE546E71DC40D4E9CF62A1C36AD61365B02D5AB4F920A278A62EE36E",
-  "release_state": "verified_release",
-  "regression_passed": 1030,
+  "expected_pck_sha256": "768A4FC6C03ED39583B430D6F346F8297D5218B538FE291EAF2579B1F419F54D",
+  "release_state": "native_regression_verified_browser_recheck_pending",
+  "total_regression_passed": 1060,
+  "regression_passed": 1052,
   "regression_exit_code": 0,
-  "regression_evidence": "figure-skating-qa-ack-debug-20261007/test-runner-inner.log",
-  "browser_evidence": "docs/qa/2026-10-06-friend-playtest-candidate.md",
+  "regression_scope": "All registered suites except two long journey/season suites; each suite loaded in a fresh process with runtime-error checks",
+  "season_regression_passed": 6,
+  "season_regression_evidence": "qa-remediation-season-recheck.log",
+  "public_journey_regression_passed": 2,
+  "public_journey_evidence": ["qa-remediation-assigned-recheck-v2.log", "qa-remediation-rejected-recheck.log"],
+  "regression_evidence": "qa-remediation-final-short.log",
+  "browser_evidence": null,
+  "native_render_evidence": "qa-broadcast-final-20261008.png",
   "hosting_state": "codex/friend-beta-pages",
   "files": [
     {
-      "name": "releases/friend-beta-20261007/index.html",
+      "name": "releases/friend-beta-20261008/index.html",
       "bytes": 5926,
-      "sha256": "88BFCF68651DD9BE2B6A492D8ACDE9D8872AF31ABFEE2E2C4E6622DDA18CD193"
+      "sha256": "B0910F328A80F8EFD0BE8EC2365DDFD595C0725758573FFC7757F7155E7461AE"
     },
     {
-      "name": "releases/friend-beta-20261007/index.js",
+      "name": "releases/friend-beta-20261008/index.js",
       "bytes": 282805,
       "sha256": "2200675EA15479007DAC96773C247D712D960B577E3206BBBBE85F3735AF8D2C"
     },
     {
-      "name": "releases/friend-beta-20261007/index.wasm",
+      "name": "releases/friend-beta-20261008/index.wasm",
       "bytes": 39514754,
       "sha256": "FC74679E3B97F76878947FCD4FBE1268CBFA6188182A2E33BBC3F5DC9BFA57D0"
     },
     {
-      "name": "releases/friend-beta-20261007/index.pck",
-      "bytes": 15507004,
-      "sha256": "317F979DAE546E71DC40D4E9CF62A1C36AD61365B02D5AB4F920A278A62EE36E"
+      "name": "releases/friend-beta-20261008/index.pck",
+      "bytes": 15520860,
+      "sha256": "768A4FC6C03ED39583B430D6F346F8297D5218B538FE291EAF2579B1F419F54D"
     },
     {
-      "name": "releases/friend-beta-20261007/index.audio.worklet.js",
+      "name": "releases/friend-beta-20261008/index.audio.worklet.js",
       "bytes": 7298,
       "sha256": "5B476A9C9CE642C0EE4256436D1BC31D9C38F868ACA0F9A8E2A57C18D2DEC2A3"
     },
     {
-      "name": "releases/friend-beta-20261007/index.audio.position.worklet.js",
+      "name": "releases/friend-beta-20261008/index.audio.position.worklet.js",
       "bytes": 2973,
       "sha256": "BE33985BC7160D6BF9646F259CD86B259CD67B02CCB297EE5C44F8AC84327BC8"
     },
     {
-      "name": "releases/friend-beta-20261007/index.png",
+      "name": "releases/friend-beta-20261008/index.png",
       "bytes": 21443,
       "sha256": "3CB4495C0B98DFBE4B663CBF2B6836473572339BEB66D902367893162A70BE0E"
     },
     {
-      "name": "releases/friend-beta-20261007/index.icon.png",
+      "name": "releases/friend-beta-20261008/index.icon.png",
       "bytes": 5700,
       "sha256": "AD3C35AD0FACF487C618204BD98DB543034FC95224EADC7F08C7A9FF38D5B3B5"
     },
     {
-      "name": "releases/friend-beta-20261007/index.apple-touch-icon.png",
+      "name": "releases/friend-beta-20261008/index.apple-touch-icon.png",
       "bytes": 11944,
       "sha256": "01D4F63E525941E06CE74F5187DAD030D20A8D52A07CE365AE4E94AF97A3B1F5"
     }
   ],
   "known_limits": [
-    "Full JGP federation quota and assignment rules remain incomplete",
+    "Current real-browser interaction recheck blocked by automation initialization failure and missing npm",
+    "Full retirement and comeback career is not implemented in this vertical slice",
     "Independent Chrome, Edge and Firefox certification is incomplete",
     "Large career saves may require a noticeable storage wait"
   ],
   "entrypoint": "index.html",
-  "game_entrypoint": "releases/friend-beta-20261007/index.html",
+  "game_entrypoint": "releases/friend-beta-20261008/index.html",
   "license_files": [
     "LICENSE",
     "GODOT_LICENSE.txt",

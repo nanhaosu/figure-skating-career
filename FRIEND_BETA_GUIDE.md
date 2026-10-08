@@ -1,6 +1,8 @@
 # 朋友内测说明
 
-版本：friend-beta-20261007。入口：[开始试玩](https://nanhaosu.github.io/figure-skating-career/)。若旧入口仍显示旧版，可使用[本版直接入口](https://nanhaosu.github.io/figure-skating-career/releases/friend-beta-20261007/index.html)。
+版本：friend-beta-20261008。入口：[开始试玩](https://nanhaosu.github.io/figure-skating-career/)。若旧入口仍显示旧版，可使用[本版直接入口](https://nanhaosu.github.io/figure-skating-career/releases/friend-beta-20261008/index.html)。[本轮反馈修订说明](releases/friend-beta-20261008/RELEASE_NOTES.md)。
+
+升级前请先在旧页面下载 JSON 备份。新入口保留旧发布文件，但不同版本的网址可能使用不同的浏览器存储路径；如果旧角色没有出现，请导入备份后读取，不要清理网站数据。本轮检查了本机实际渲染和 Web 构建、存储桥接；当前环境的真实浏览器交互复验受工具故障限制，未完成。
 
 ## 这次请体验什么
 
@@ -10,7 +12,7 @@
 
 ## 快速开始
 
-1. 用桌面浏览器的普通窗口打开提供的 HTTPS 试玩地址，不要用无痕窗口，也不要直接双击 `index.html`。本地调试的 `localhost` 地址除外。当前人工验收使用内嵌浏览器；独立 Chrome、Edge、Firefox 的兼容性验证尚未完成。
+1. 用桌面浏览器的普通窗口打开提供的 HTTPS 试玩地址，不要用无痕窗口，也不要直接双击 `index.html`。本地调试的 `localhost` 地址除外。本轮真实浏览器交互复验尚未完成；独立 Chrome、Edge、Firefox 的兼容性验证也尚未完成。
 2. 建议保留默认2006年出生（2014年8岁开档），这样能在本轮赛历内达到国际青年组年龄；6—7岁开档仍可玩，但本轮以国内赛事为主。创建后阅读启蒙经历，再回到生涯主页跟随金色主行动。若在建档时选择北京学籍或户籍成长线，2018年还可能申请北京冬运会女子丙组；其他成长线不会事后补出这项资格。
 3. 不懂训练时选择“与教练商量”；想细调时再展开高级配置。
 4. 教练建议只是可预览的草案，不会自动替你更改节目。可以逐项点击动作调整，或返回赛季主页；节目不合规时也不必卡在编辑器里。正式赛短节目上场前仍可修改配置，保存后再明确确认上场。
