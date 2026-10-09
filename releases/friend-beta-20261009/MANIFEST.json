@@ -1,0 +1,19 @@
+{
+  "release": "friend-beta-20261009",
+  "status": "beta",
+  "engine": "Godot 4.7.2 stable, Web single-threaded",
+  "save_schema": 16,
+  "source_base": "eb746bda2e65086bcb5ada85e55aa20f087706c5",
+  "source_working_tree": "Includes approved uncommitted career rebuild and health/repertoire work; source_base alone does not reproduce this release.",
+  "source_snapshot_sha256": "644948BC36757034A47DE6F0C1D41542BFC9064CD0046E06311D7A98BFAFE941",
+  "production_source_fingerprint": "D8D5923AA549A9AF9F5335CFAFF4984BA2EBCBAFBF2D53D032935F0EE0E121C0",
+  "production_source_fingerprint_method": "207 sorted relative-path:SHA256 lines joined by LF, UTF8, for src/data/assets/project.godot/export_presets.cfg excluding .uid/.import",
+  "supported_formal_seasons": ["2018-19", "2019-20"],
+  "verification": "Final production full suite: 1136 passed, process exit 0, no script/runtime errors; runner failure guards passed. Web smoke, storage bridge, local Edge creation/training/refresh/treatment/large-save/result checks passed. Public deployment readback is performed after publication; release fingerprints below identify the tested package.",
+  "sha256": {
+    "index.html": "3B87D356085605AA9C0AFDB261EEB6B2CC02E078E9E7C9BD1B51F91F9CDA0A27",
+    "index.js": "2200675EA15479007DAC96773C247D712D960B577E3206BBBBE85F3735AF8D2C",
+    "index.pck": "AC94316516A228CFB695697E2662A5150B13B0BFFB28F6A595F0D915B4C236AA",
+    "index.wasm": "FC74679E3B97F76878947FCD4FBE1268CBFA6188182A2E33BBC3F5DC9BFA57D0"
+  }
+}
