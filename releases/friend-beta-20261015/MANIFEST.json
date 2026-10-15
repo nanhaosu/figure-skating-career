@@ -1,0 +1,126 @@
+{
+  "schema_version": 2,
+  "package_name": "friend-beta-20261015",
+  "source_head_at_staging": "066e3c1e6cf22bfe1c839d5bcec4e942cec80db8",
+  "working_tree_modified": true,
+  "production_calibration_sha256": "283E9B7B752C00A607EE1FA6FDE019B3B4A566DA43F38094BDA0BDA6878B5A69",
+  "save_schema_version": 19,
+  "expected_pck_sha256": "AC827290F344C40FC4B17B49622C594DDAB8B2663F9049D2F93E4D536DCB360E",
+  "release_state": "technical_friend_test_not_final_enjoyment_acceptance",
+  "regression": {
+    "run": "full-v4",
+    "passed": 1254,
+    "failed": 0,
+    "unhandled_runtime_errors": 0,
+    "supervisor_guards_passed": 3,
+    "exit_code": 0,
+    "scope": "Complete registered test catalog, including long two-season, public-journey and season routes; no omitted suites",
+    "evidence": "full-v4-supervised.log; full-v4/Godot/app_userdata/花样滑冰生涯/test-runner-inner.log"
+  },
+  "web_validation": {
+    "fresh_export_exit_code": 0,
+    "acknowledged_idbfs_bridge": true,
+    "artifact_smoke": "passed",
+    "smoke_guard_cases": 4,
+    "final_local_menu": "output/playwright/two-season-20261015/final-menu.png",
+    "prior_same_source_browser_scope": "v3 actual old schema17 large save migration to19; standings/protocol close; result commit; refresh/resume; nested help 960x540 and1280x720",
+    "online_verification": "Deployment workflow, public file hashes and cold browser launch recorded separately after push"
+  },
+  "balance_cohort": {
+    "planned": 60,
+    "completed": 24,
+    "failed": 0,
+    "remaining": 36,
+    "scope": "Three routes, seeds42000..42019; only completed metadata counted",
+    "remaining_status": "resume with two workers after Web delivery"
+  },
+  "human_feedback": {
+    "novice_planned": 3,
+    "experienced_planned": 2,
+    "collected": 0
+  },
+  "hosting_state": "codex/friend-beta-pages",
+  "rollback_commit": "a3ee6e72e443f4d5066c7e2d4786714a894ecc82",
+  "entrypoint": "index.html",
+  "game_entrypoint": "releases/friend-beta-20261015/index.html",
+  "files": [
+    {
+      "name": "releases/friend-beta-20261015/index.apple-touch-icon.png",
+      "bytes": 11944,
+      "sha256": "01D4F63E525941E06CE74F5187DAD030D20A8D52A07CE365AE4E94AF97A3B1F5"
+    },
+    {
+      "name": "releases/friend-beta-20261015/index.audio.position.worklet.js",
+      "bytes": 2973,
+      "sha256": "BE33985BC7160D6BF9646F259CD86B259CD67B02CCB297EE5C44F8AC84327BC8"
+    },
+    {
+      "name": "releases/friend-beta-20261015/index.audio.worklet.js",
+      "bytes": 7298,
+      "sha256": "5B476A9C9CE642C0EE4256436D1BC31D9C38F868ACA0F9A8E2A57C18D2DEC2A3"
+    },
+    {
+      "name": "releases/friend-beta-20261015/index.html",
+      "bytes": 5926,
+      "sha256": "F62F2D39A3BDF5856B613AA722CFECA5D5DC1E47FAEF1F258303927D633CBE8D"
+    },
+    {
+      "name": "releases/friend-beta-20261015/index.icon.png",
+      "bytes": 5700,
+      "sha256": "AD3C35AD0FACF487C618204BD98DB543034FC95224EADC7F08C7A9FF38D5B3B5"
+    },
+    {
+      "name": "releases/friend-beta-20261015/index.js",
+      "bytes": 282805,
+      "sha256": "2200675EA15479007DAC96773C247D712D960B577E3206BBBBE85F3735AF8D2C"
+    },
+    {
+      "name": "releases/friend-beta-20261015/index.pck",
+      "bytes": 15716740,
+      "sha256": "AC827290F344C40FC4B17B49622C594DDAB8B2663F9049D2F93E4D536DCB360E"
+    },
+    {
+      "name": "releases/friend-beta-20261015/index.png",
+      "bytes": 21443,
+      "sha256": "3CB4495C0B98DFBE4B663CBF2B6836473572339BEB66D902367893162A70BE0E"
+    },
+    {
+      "name": "releases/friend-beta-20261015/index.wasm",
+      "bytes": 39514754,
+      "sha256": "FC74679E3B97F76878947FCD4FBE1268CBFA6188182A2E33BBC3F5DC9BFA57D0"
+    },
+    {
+      "name": "releases/friend-beta-20261015/PLAYTEST_FEEDBACK.md",
+      "bytes": 3384,
+      "sha256": "267E37DED6D67549F9D3D847B0B8B2E417342F2392735596369E25ECA683F97B"
+    },
+    {
+      "name": "releases/friend-beta-20261015/RELEASE_NOTES.md",
+      "bytes": 3104,
+      "sha256": "BB5BCE6D24F270F97DDC63F4C49B34C0C531F795901D03B3E6263D19712729B9"
+    },
+    {
+      "name": "index.html",
+      "bytes": 708,
+      "sha256": "1F7CC164EA984B329AA3F0DBE913144118711A4C5ABDF5C11FF0638FB7F61C5B"
+    },
+    {
+      "name": "FRIEND_BETA_GUIDE.md",
+      "bytes": 2168,
+      "sha256": "1977D2A1D3A564CEAA8840A7B3A8DD0ED260BEE4A058A3E58EC1FAC8909B98D4"
+    }
+  ],
+  "license_files": [
+    "LICENSE",
+    "GODOT_LICENSE.txt",
+    "GODOT_COPYRIGHT.txt",
+    "NOTO_CJK_LICENSE.txt"
+  ],
+  "known_limits": [
+    "Playable validated scope is childhood and two formal seasons2018-19/2019-20, not the complete retirement/comeback career",
+    "Only24 of60 balance samples complete; five-person playtest feedback not collected",
+    "Matched isolated performance benchmark incomplete; large saves can cause noticeable main-thread wait",
+    "Mobile and all-browser compatibility not fully certified",
+    "Same-origin release directories are not separate save spaces; back up old saves before migration"
+  ]
+}
