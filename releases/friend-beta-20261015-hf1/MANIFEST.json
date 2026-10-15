@@ -1,0 +1,128 @@
+{
+  "schema_version": 2,
+  "package_name": "friend-beta-20261015-hf1",
+  "source_head_at_staging": "066e3c1e6cf22bfe1c839d5bcec4e942cec80db8",
+  "working_tree_modified": true,
+  "production_calibration_sha256": "EF95717641A6EDE5AA6CF912135B17DFA4E58E8DF6F706DF5569986A62FD3E89",
+  "save_schema_version": 19,
+  "expected_pck_sha256": "8D804ED8E8BEA6879F5CF4CE98C593C603B43C50E5F310CCE4990CCDBDD044F2",
+  "release_state": "technical_friend_test_not_final_enjoyment_acceptance",
+  "regression": {
+    "run": "planning-full-v1",
+    "passed": 1257,
+    "failed": 0,
+    "unhandled_runtime_errors": 0,
+    "supervisor_guards_passed": 3,
+    "exit_code": 0,
+    "scope": "Complete registered test catalog, including long two-season, public-journey and season routes; no omitted suites",
+    "evidence": "planning-full-v1-supervised.log; planning-footer-20261015-full-v1/Godot/app_userdata/花样滑冰生涯/test-runner-inner.log"
+  },
+  "web_validation": {
+    "fresh_export_exit_code": 0,
+    "acknowledged_idbfs_bridge": true,
+    "artifact_smoke": "passed",
+    "smoke_guard_cases": 4,
+    "final_local_menu": "output/playwright/two-season-20261015/planning-final-menu.png",
+    "prior_same_source_browser_scope": "Planning fixed footer at1280/960; X/reopen/confirm/training/refresh/resume with synthetic2017 checkpoint, real acknowledged IndexedDB; not natural ability balance",
+    "online_verification": "Deployment workflow, public file hashes and cold browser launch recorded separately after push"
+  },
+  "balance_cohort": {
+    "planned": 60,
+    "completed": 0,
+    "remaining": 60,
+    "scope": "Current fingerprint not yet calibrated;28 completed historical samples belong to original283E9B7B fingerprint",
+    "remaining_status": "pending independent balance verification"
+  },
+  "human_feedback": {
+    "novice_planned": 3,
+    "experienced_planned": 2,
+    "aggregate_testers_reported": 5,
+    "individual_questionnaires_collected": 0,
+    "experience_acceptance": "failed_offseason_user_report",
+    "scope": "User reports five testers disliked offseason activities; some found abrupt/disruptive; not per-person transcripts or confirmed devices/builds"
+  },
+  "hosting_state": "codex/friend-beta-pages",
+  "rollback_commit": "d221b5f95a6dcffa31bf1ded9a2acd870f48457f",
+  "entrypoint": "index.html",
+  "game_entrypoint": "releases/friend-beta-20261015-hf1/index.html",
+  "files": [
+    {
+      "name": "releases/friend-beta-20261015-hf1/index.apple-touch-icon.png",
+      "bytes": 11944,
+      "sha256": "01D4F63E525941E06CE74F5187DAD030D20A8D52A07CE365AE4E94AF97A3B1F5"
+    },
+    {
+      "name": "releases/friend-beta-20261015-hf1/index.audio.position.worklet.js",
+      "bytes": 2973,
+      "sha256": "BE33985BC7160D6BF9646F259CD86B259CD67B02CCB297EE5C44F8AC84327BC8"
+    },
+    {
+      "name": "releases/friend-beta-20261015-hf1/index.audio.worklet.js",
+      "bytes": 7298,
+      "sha256": "5B476A9C9CE642C0EE4256436D1BC31D9C38F868ACA0F9A8E2A57C18D2DEC2A3"
+    },
+    {
+      "name": "releases/friend-beta-20261015-hf1/index.html",
+      "bytes": 5926,
+      "sha256": "6C2BADB0422CC8A3CA412AB135B1760B61F9A0389D7883147DA32B7542A78124"
+    },
+    {
+      "name": "releases/friend-beta-20261015-hf1/index.icon.png",
+      "bytes": 5700,
+      "sha256": "AD3C35AD0FACF487C618204BD98DB543034FC95224EADC7F08C7A9FF38D5B3B5"
+    },
+    {
+      "name": "releases/friend-beta-20261015-hf1/index.js",
+      "bytes": 282805,
+      "sha256": "2200675EA15479007DAC96773C247D712D960B577E3206BBBBE85F3735AF8D2C"
+    },
+    {
+      "name": "releases/friend-beta-20261015-hf1/index.pck",
+      "bytes": 15717444,
+      "sha256": "8D804ED8E8BEA6879F5CF4CE98C593C603B43C50E5F310CCE4990CCDBDD044F2"
+    },
+    {
+      "name": "releases/friend-beta-20261015-hf1/index.png",
+      "bytes": 21443,
+      "sha256": "3CB4495C0B98DFBE4B663CBF2B6836473572339BEB66D902367893162A70BE0E"
+    },
+    {
+      "name": "releases/friend-beta-20261015-hf1/index.wasm",
+      "bytes": 39514754,
+      "sha256": "FC74679E3B97F76878947FCD4FBE1268CBFA6188182A2E33BBC3F5DC9BFA57D0"
+    },
+    {
+      "name": "releases/friend-beta-20261015-hf1/PLAYTEST_FEEDBACK.md",
+      "bytes": 4368,
+      "sha256": "13C98A6C821FCD8603062AD93452E9B8F55FD0BC54807FFFE21D18DA2F65BAB0"
+    },
+    {
+      "name": "releases/friend-beta-20261015-hf1/RELEASE_NOTES.md",
+      "bytes": 1608,
+      "sha256": "03D9423AF919AA40BF25CDE421C8DB4B9C7FF3666F1FB8018D771707DBC195BF"
+    },
+    {
+      "name": "index.html",
+      "bytes": 720,
+      "sha256": "7B0D6850C30E591E49B0451428BCD43C0141900A64F8E1AB7EC91DB8B310C088"
+    },
+    {
+      "name": "FRIEND_BETA_GUIDE.md",
+      "bytes": 2477,
+      "sha256": "99F2AFFC37C23E6DDD8F8999B46F2F6084B0AC98DDD5A70E22F0D77586404148"
+    }
+  ],
+  "license_files": [
+    "LICENSE",
+    "GODOT_LICENSE.txt",
+    "GODOT_COPYRIGHT.txt",
+    "NOTO_CJK_LICENSE.txt"
+  ],
+  "known_limits": [
+    "Layout-only hotfix: dispatch/U-series notification/international skip dialogs and offseason redesign are NOT fixed here",
+    "Offseason experience acceptance failed per aggregate user report from five testers; individual transcripts/builds/devices not collected",
+    "No completed balance cohort for current fingerprint;28 historical samples belong to old source",
+    "Matched isolated performance benchmark and mobile/all-browser compatibility incomplete",
+    "Same-origin releases share save space; back up and close old tabs before continuing"
+  ]
+}

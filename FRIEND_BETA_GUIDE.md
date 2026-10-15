@@ -1,6 +1,8 @@
 # 花样滑冰生涯朋友试玩说明
 
-本次版本为2026年10月15日测试版。[开始试玩](https://nanhaosu.github.io/figure-skating-career/releases/friend-beta-20261015/index.html)；[更新说明](https://nanhaosu.github.io/figure-skating-career/releases/friend-beta-20261015/RELEASE_NOTES.md)；[反馈问题](https://nanhaosu.github.io/figure-skating-career/releases/friend-beta-20261015/PLAYTEST_FEEDBACK.md)。
+本次版本为2026年10月15日赛季规划窗口修补版（hf1）。[开始试玩](https://nanhaosu.github.io/figure-skating-career/releases/friend-beta-20261015-hf1/index.html)；[更新说明](https://nanhaosu.github.io/figure-skating-career/releases/friend-beta-20261015-hf1/RELEASE_NOTES.md)；[反馈问题](https://nanhaosu.github.io/figure-skating-career/releases/friend-beta-20261015-hf1/PLAYTEST_FEEDBACK.md)。
+
+本次仅修复赛季规划确认按钮被窗口裁切导致无法继续训练的问题。U系列漏通知、国际赛重复确认、派遣与休赛期体验整改尚未包含；已收到五名测试者对休赛期的负面汇总反馈，不代表体验验收通过。
 
 ## 开始与保存
 
