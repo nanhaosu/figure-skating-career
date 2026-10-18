@@ -1,14 +1,14 @@
 # 花样滑冰生涯朋友试玩说明
 
-本次版本为2026年10月15日赛季规划窗口修补版（hf1）。[开始试玩](https://nanhaosu.github.io/figure-skating-career/releases/friend-beta-20261015-hf1/index.html)；[更新说明](https://nanhaosu.github.io/figure-skating-career/releases/friend-beta-20261015-hf1/RELEASE_NOTES.md)；[反馈问题](https://nanhaosu.github.io/figure-skating-career/releases/friend-beta-20261015-hf1/PLAYTEST_FEEDBACK.md)。
+本次版本为2026年10月18日首次JGP与正式3A体验测试版。[开始试玩](https://nanhaosu.github.io/figure-skating-career/releases/friend-beta-20261018/index.html)；[更新说明](https://nanhaosu.github.io/figure-skating-career/releases/friend-beta-20261018/RELEASE_NOTES.md)；[反馈问题](https://nanhaosu.github.io/figure-skating-career/releases/friend-beta-20261018/PLAYTEST_FEEDBACK.md)。
 
-本次仅修复赛季规划确认按钮被窗口裁切导致无法继续训练的问题。U系列漏通知、国际赛重复确认、派遣与休赛期体验整改尚未包含；已收到五名测试者对休赛期的负面汇总反馈，不代表体验验收通过。
+本轮重点是将首次JGP准备、实际出场、赛后结果和履历连接起来，并区分训练跳成3A、节目练习与正式比赛最终确认。帮助增加国内与国际位置的参照，不把国内冠军等同国际争牌。没有增加里程碑领取或庆祝确认。此前收到的五人负面反馈仍然有效；本版本尚未收集新的五人体验反馈，不能据技术回归称“已经好玩”。
 
 ## 开始与保存
 
 建议用桌面浏览器打开网址。首次需要下载约55MB资源；看到下载进度仍在增加时，请保留页面，不反复刷新。游戏开局的花滑介绍可以跳过，之后也能重新查看。
 
-已有角色请先在旧页面的存档管理中下载JSON备份，关闭旧版标签页后再进入新版。不要清理网站数据。新版可迁移旧档，保存后版本为19；不同发布目录不应当作相互独立的存档空间，旧版不保证读取新版存档。
+已有角色请先在旧页面的存档管理中下载JSON备份，关闭旧版标签页后再进入新版。不要清理网站数据。新版可迁移旧档，保存后版本为20；不同发布目录不应当作相互独立的存档空间，旧版不保证读取20版存档。保留唯一的19版备份，不要用新导出覆盖它。没有完整历史证据时，新版不会把后来事件冒称生涯首次，也不会补造已经错过的U系列或世青赛结果。
 
 主页金色按钮指向当前主要行动；左侧栏目可查看训练、节目、赛季、储备和身体状态。查看说明后可以返回，不需要立刻作出选择。完全不懂动作代号时，可以先打开花滑入门帮助。
 
