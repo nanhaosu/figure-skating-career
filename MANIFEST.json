@@ -1,124 +1,128 @@
 {
   "schema_version": 2,
-  "package_name": "friend-beta-20261018",
-  "source_head_at_staging": "d0cc0f25df89e4a642235a088ce8326674488772",
+  "package_name": "friend-beta-20261026",
+  "source_head_at_staging": "46d9de7bb17e53e4c304c6ad38b92a643a845d35",
   "working_tree_modified": true,
-  "production_calibration_sha256": "DFAAB1366A35BF8C6D99EC66F1E5D0229495219B9C541C0BC0499F2ACCA34E3B",
-  "tests_sha256": "9A934107F818A58F8C43AA9FA7D0DFD9EC83BDEA688A948CE6AAE45F873AB0ED",
-  "save_schema_version": 20,
-  "expected_pck_sha256": "7F893D41FCC1912121BDBD0F25B3FE8ADB045DCD585335C641BD045C20D8FFAA",
+  "production_calibration_sha256": "7B3B6E512F05B293134C10A896C7EA13F40FC4BD03053CD36943A7701DB489D1",
+  "source_digest_scope": "src,data,scripts,project.godot,export_presets.cfg",
+  "tests_sha256": "1FA2BEDA444F7C37D09153458A4B03D040E73713DF79465C5E08045CA135FFF4",
+  "save_schema_version": 23,
+  "expected_pck_sha256": "6D17157BD4680CC50D673B43D3035FDEA7501A701B1F2F89812F1CCE6CF38714",
   "release_state": "technical_friend_test_not_final_enjoyment_acceptance",
   "regression": {
-    "run": "first-meaning-20261018-full-v3",
-    "passed": 1302,
+    "run": "beijing-acceptance-20261025-full-v4",
+    "suites": 293,
+    "passed": 1749,
     "failed": 0,
     "unhandled_runtime_errors": 0,
     "supervisor_guards_passed": 3,
     "exit_code": 0,
     "source_and_tests_unchanged": true,
-    "started_utc": "2026-10-18T10:35:26.1086066+00:00",
-    "finished_utc": "2026-10-18T11:50:39.9989671+00:00",
-    "scope": "Complete actual registered catalog:216 suites, long two-season and public journeys included; no omitted suites",
-    "evidence": ".superpowers/sdd/2026-10-18-first-jgp-and-3a-meaning/full-v3-supervised.log; qa-runs/first-meaning-20261018-full-v3/Godot/app_userdata/花样滑冰生涯/test-runner-inner.log"
+    "started_utc": "2026-10-25T11:31:54.0503988Z",
+    "finished_utc": "2026-10-25T13:49:46.3866594Z",
+    "scope": "All actually registered cases, no omitted suites",
+    "evidence": ".superpowers/sdd/2026-10-22-beijing-eligibility-and-promotion/beijing-acceptance-20261025-full-v4-status.json; full-v4-supervised.log; qa-runs/beijing-acceptance-20261025-full-v4/Godot/app_userdata/花样滑冰生涯/test-runner-inner.log"
   },
   "web_validation": {
     "fresh_export_exit_code": 0,
     "acknowledged_idbfs_bridge": true,
     "artifact_smoke": "passed",
     "smoke_guard_cases": 4,
-    "final_local_evidence": "output/playwright/first-meaning-20261018/final-*",
-    "prior_same_source_browser_scope": "Actual isolated IndexedDB old19->20 import/read, real simulator successful and popped3A/JGP contrast,1280/960, playback/KC/summary/records;8 required forward clicks unchanged; not natural balance proof",
-    "online_verification": "Exact deployment commit, public hashes and cold browser startup recorded separately after push; not implied by this manifest"
+    "build": "build/web/beijing-20261026-final",
+    "final_local_evidence": "qa-runs/beijing-web-20261026-final/export.log; .playwright-cli/page-2026-10-26T05-39-*.png through 05-43-*.png",
+    "final_scope": "Actual fresh-build persisted new career Q2 reload, original old-save copy read, 960/1280 scrollable full calendar, historical archive/protocol/return, upload safe-write acknowledgment and reload/read, console0errors0warnings",
+    "prior_same_source_scope": "Before final full: controlled two-country Olympic SP/FS, SP refresh persistence, final summary and replay return; real low-ability SP cut without FS entry, corrected no-two-segment-total; not natural TES proof",
+    "online_verification": "Exact new commit, Pages success, normal-TLS per-file hashes and public cold start must be recorded separately after push"
+  },
+  "controversy": {
+    "enabled": false,
+    "reason": "Previous entire parameter set rejected; no replacement approved"
   },
   "balance_cohort": {
     "planned": 60,
     "completed": 0,
     "remaining": 60,
-    "scope": "Current fingerprint not calibrated;28 historical samples belong to an earlier source",
-    "remaining_status": "pending independent balance verification"
+    "scope": "No new independent balance cohort for this fingerprint"
   },
   "human_feedback": {
-    "novice_planned": 3,
-    "experienced_planned": 2,
     "new_questionnaires_collected": 0,
-    "prior_testers_reported": 5,
-    "prior_offseason_feedback": "negative",
-    "experience_acceptance": "pending new playtest; prior negative feedback is not superseded"
+    "experience_acceptance": "pending new playtest; prior negative feedback not superseded"
   },
+  "performance_acceptance": "not claimed",
   "hosting_state": "codex/friend-beta-pages",
-  "rollback_commit": "aef13cacecd5c7a4dd286448fd19770bb4a849a4",
+  "rollback_commit": "2b9646a6f4d1f82defcfcb9b181571731c540e60",
   "entrypoint": "index.html",
-  "game_entrypoint": "releases/friend-beta-20261018/index.html",
+  "game_entrypoint": "releases/friend-beta-20261026/index.html",
   "files": [
     {
       "name": "index.html",
       "bytes": 708,
-      "sha256": "61DF426E735CAC759089905D555DBBF5B091D61D02843F6F6AE8FD967960922F"
+      "sha256": "62AEC42AA31941D00ED193683A78E9A7593F8B1C3D2670A917BD1E8F23A5D757"
     },
     {
       "name": "FRIEND_BETA_GUIDE.md",
-      "bytes": 2815,
-      "sha256": "C1BC4954E0A0293CF1D9D8325CCF33A6D224C8B6C3B97018321C51E32AE5A873"
+      "bytes": 3899,
+      "sha256": "590F832EA82D0D7B33D02B8CD518293C5783FB27F73D90E63EC4413617AC6C84"
     },
     {
-      "name": "releases/friend-beta-20261018/FRIEND_BETA_GUIDE.md",
-      "bytes": 2815,
-      "sha256": "C1BC4954E0A0293CF1D9D8325CCF33A6D224C8B6C3B97018321C51E32AE5A873"
-    },
-    {
-      "name": "releases/friend-beta-20261018/index.apple-touch-icon.png",
-      "bytes": 11944,
-      "sha256": "01D4F63E525941E06CE74F5187DAD030D20A8D52A07CE365AE4E94AF97A3B1F5"
-    },
-    {
-      "name": "releases/friend-beta-20261018/index.audio.position.worklet.js",
-      "bytes": 2973,
-      "sha256": "BE33985BC7160D6BF9646F259CD86B259CD67B02CCB297EE5C44F8AC84327BC8"
-    },
-    {
-      "name": "releases/friend-beta-20261018/index.audio.worklet.js",
-      "bytes": 7298,
-      "sha256": "5B476A9C9CE642C0EE4256436D1BC31D9C38F868ACA0F9A8E2A57C18D2DEC2A3"
-    },
-    {
-      "name": "releases/friend-beta-20261018/index.html",
+      "name": "releases/friend-beta-20261026/index.html",
       "bytes": 5926,
-      "sha256": "7DC924E4A68FAE8B2322690F3C13A5094CE6852709ABBE92282268F8DCBBC882"
+      "sha256": "A5E3A83F4F4DFF1AC2F5C961F6E70357202CB04F560052A974AD9AC6EEF67A88"
     },
     {
-      "name": "releases/friend-beta-20261018/index.icon.png",
-      "bytes": 5700,
-      "sha256": "AD3C35AD0FACF487C618204BD98DB543034FC95224EADC7F08C7A9FF38D5B3B5"
-    },
-    {
-      "name": "releases/friend-beta-20261018/index.js",
+      "name": "releases/friend-beta-20261026/index.js",
       "bytes": 282805,
       "sha256": "2200675EA15479007DAC96773C247D712D960B577E3206BBBBE85F3735AF8D2C"
     },
     {
-      "name": "releases/friend-beta-20261018/index.pck",
-      "bytes": 15750668,
-      "sha256": "7F893D41FCC1912121BDBD0F25B3FE8ADB045DCD585335C641BD045C20D8FFAA"
-    },
-    {
-      "name": "releases/friend-beta-20261018/index.png",
-      "bytes": 21443,
-      "sha256": "3CB4495C0B98DFBE4B663CBF2B6836473572339BEB66D902367893162A70BE0E"
-    },
-    {
-      "name": "releases/friend-beta-20261018/index.wasm",
+      "name": "releases/friend-beta-20261026/index.wasm",
       "bytes": 39514754,
       "sha256": "FC74679E3B97F76878947FCD4FBE1268CBFA6188182A2E33BBC3F5DC9BFA57D0"
     },
     {
-      "name": "releases/friend-beta-20261018/PLAYTEST_FEEDBACK.md",
-      "bytes": 1250,
-      "sha256": "76C250D526F66EDD4D95CC72F477330F56DEC28C8163D31D069702DADD4C2A95"
+      "name": "releases/friend-beta-20261026/index.pck",
+      "bytes": 16142944,
+      "sha256": "6D17157BD4680CC50D673B43D3035FDEA7501A701B1F2F89812F1CCE6CF38714"
     },
     {
-      "name": "releases/friend-beta-20261018/RELEASE_NOTES.md",
-      "bytes": 1722,
-      "sha256": "D7CB826E784C27E6E8C69BE7AB3F438EA4577A7F95178C2C487520702E995C38"
+      "name": "releases/friend-beta-20261026/index.png",
+      "bytes": 21443,
+      "sha256": "3CB4495C0B98DFBE4B663CBF2B6836473572339BEB66D902367893162A70BE0E"
+    },
+    {
+      "name": "releases/friend-beta-20261026/index.icon.png",
+      "bytes": 5700,
+      "sha256": "AD3C35AD0FACF487C618204BD98DB543034FC95224EADC7F08C7A9FF38D5B3B5"
+    },
+    {
+      "name": "releases/friend-beta-20261026/index.apple-touch-icon.png",
+      "bytes": 11944,
+      "sha256": "01D4F63E525941E06CE74F5187DAD030D20A8D52A07CE365AE4E94AF97A3B1F5"
+    },
+    {
+      "name": "releases/friend-beta-20261026/index.audio.worklet.js",
+      "bytes": 7298,
+      "sha256": "5B476A9C9CE642C0EE4256436D1BC31D9C38F868ACA0F9A8E2A57C18D2DEC2A3"
+    },
+    {
+      "name": "releases/friend-beta-20261026/index.audio.position.worklet.js",
+      "bytes": 2973,
+      "sha256": "BE33985BC7160D6BF9646F259CD86B259CD67B02CCB297EE5C44F8AC84327BC8"
+    },
+    {
+      "name": "releases/friend-beta-20261026/FRIEND_BETA_GUIDE.md",
+      "bytes": 3899,
+      "sha256": "590F832EA82D0D7B33D02B8CD518293C5783FB27F73D90E63EC4413617AC6C84"
+    },
+    {
+      "name": "releases/friend-beta-20261026/RELEASE_NOTES.md",
+      "bytes": 1490,
+      "sha256": "675B04337CD2279C20E4077DFC168A934D21184186F5F4D4ACC77520851C1524"
+    },
+    {
+      "name": "releases/friend-beta-20261026/PLAYTEST_FEEDBACK.md",
+      "bytes": 964,
+      "sha256": "CE818EEC7091CFE7F0840E461F8F387D6EF18A62BC695453E6C412AFB5FABCB2"
     }
   ]
 }
