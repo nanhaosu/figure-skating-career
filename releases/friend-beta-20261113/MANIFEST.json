@@ -1,0 +1,160 @@
+{
+  "schema_version": 3,
+  "package_name": "friend-beta-20261113",
+  "build_id": "career-beta-20261113",
+  "save_schema_version": 23,
+  "source_head_at_staging": "a224d9160b25a4ad344a00dbaa419bf2af7db9f8",
+  "working_tree_modified": true,
+  "source_fingerprint_scope": "src,data,tests,project.godot,export_presets.cfg; exclude .uid",
+  "source_fingerprint": "cc2307014a3284575d1cb93a7b406376c4b87697efcdf566f15393a441aa942f",
+  "runtime": {
+    "source_release": "friend-beta-20261026",
+    "current_bridge_exact_match": true,
+    "files": {
+      "index.js": "2200675ea15479007dac96773c247d712d960b577e3206bbbbe85f3735af8d2c",
+      "index.wasm": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0"
+    }
+  },
+  "regression": {
+    "suite_count": 324,
+    "passed": 1945,
+    "failed": 0,
+    "supervisor_guards_passed": 3,
+    "method": "Combined coverage, NOT one fresh all-green run on final source. Complete324suite baseline:1937pass8fail plus a raw QA modal error in one otherwise-passing factory route. Final two product fixes and test-premise corrections verified by85affected suites/500cases (including whole6case rerun for the remaining evidence-only JGP assertion). Then QA-only adopter corrected and both original registered factory international routes fully rerun with real save/reload and zero runtime errors. Retain1443 unaffected baseline cases and502 final-source case results. Exact known nested acknowledgement-probe print is not counted as an extra registered test. All original supervisor guards pass.",
+    "qa_driver_correction": {
+      "path": "scripts/international_season_journey.gd",
+      "sha256": "cbf55ef7618f4919790fcc6bdbbfc7451eb81d531ea72d8a1f1fea0f8fabd3ce",
+      "scope": "Non-exported QA helper: actual native cancel before per-event registration and normal outgoing-dialog cleanup during career adoption. Both original registered factory international routes replayed completely on final source with real save/reload and zero unexpected runtime errors.",
+      "failed_attempt_retained": "driver-error-matrix-20261114-010409/",
+      "native_cancel_regression": "modal-final-regression.log",
+      "previous_sha256": "5bf78df2ef330f09b1b756ee50be481a288bfa41fafc12241f20a8682862aed5",
+      "final_factory_route_report": "international-adopt-full-report.json",
+      "final_factory_route_native_exit_code": 0
+    },
+    "production_source_unchanged": false,
+    "production_changes_after_baseline": [
+      "src/app/quarter_panel.gd",
+      "src/simulation/career_command_service.gd"
+    ],
+    "baseline": {
+      "passed": 1937,
+      "failed": 8
+    },
+    "final_source_postfix": {
+      "passed": 500,
+      "failed": 0,
+      "suite_count": 85,
+      "initial_native_attempt_exit_codes": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "source_unchanged_during_postfix": true,
+      "report": "postfix-final-report.json"
+    },
+    "baseline_cases_retained": 1443,
+    "final_source_cases_rerun": 502,
+    "factory_routes_final_source_replay": {
+      "native_exit_code": 0,
+      "passed": 2,
+      "failed": 0,
+      "report": "international-adopt-full-report.json"
+    },
+    "postfix_fixture_suite_rerun": {
+      "native_exit_code": 0,
+      "passed": 6,
+      "failed": 0,
+      "report": "progression-postfix-rerun-report.json"
+    },
+    "all_registered_suites_covered": true,
+    "test_fixture_updates": [
+      "tests/app/test_program_target_season.gd",
+      "tests/simulation/test_athlete_condition_service.gd",
+      "tests/simulation/test_offseason_events.gd",
+      "tests/simulation/test_season_progression_service.gd"
+    ]
+  },
+  "browser": {
+    "desktop_edge": true,
+    "new_career_quarter_and_refresh": true,
+    "real_save_import_refresh_export_career_equal": true,
+    "real_save_archive_count": 47,
+    "viewports": [
+      "1280x800",
+      "960x720"
+    ],
+    "fresh_final_boot_errors": 0,
+    "mobile_accepted": false,
+    "final_exported_code_ordinary_training_autosave_refresh_continue": true,
+    "local_validation_is_separate_from_public_https_acceptance": true
+  },
+  "release_state": "public_beta_not_complete_official_calendar_or_balance_acceptance",
+  "files": {
+    "GODOT_COPYRIGHT.txt": {
+      "bytes": 98556,
+      "sha256": "13e07fb4258f20b7c66ba45409755d8925ce0b56e13b6a088f94676fd30744a9"
+    },
+    "GODOT_LICENSE.txt": {
+      "bytes": 1171,
+      "sha256": "db55c33d1a9c3d64232eb7a3cf0ff36dcbbf4b913626ffab6ac12c2cd8888d32"
+    },
+    "index.apple-touch-icon.png": {
+      "bytes": 11944,
+      "sha256": "01d4f63e525941e06ce74f5187dad030d20a8d52a07ce365ae4e94af97a3b1f5"
+    },
+    "index.audio.position.worklet.js": {
+      "bytes": 3039,
+      "sha256": "0fba97ee348ded832bdb5eb295a4cec212174938c0c92f28b93962b47a71a2ea"
+    },
+    "index.audio.worklet.js": {
+      "bytes": 7511,
+      "sha256": "aeac7d92d70ead1cd09b4573ee43cd6660f85915852650dfc2a80c9de94145ac"
+    },
+    "index.html": {
+      "bytes": 6298,
+      "sha256": "de5d7fb79df967eb64072f55bd568e299be586e3f2db2d5c7881c6edf76cb91e"
+    },
+    "index.icon.png": {
+      "bytes": 5700,
+      "sha256": "ad3c35ad0facf487c618204bd98db543034fc95224eadc7f08c7a9ff38d5b3b5"
+    },
+    "index.js": {
+      "bytes": 282805,
+      "sha256": "2200675ea15479007dac96773c247d712d960b577e3206bbbbe85f3735af8d2c"
+    },
+    "index.pck": {
+      "bytes": 16767144,
+      "sha256": "ec8773f9a918f90ca7389d1749faad2585e3a395ec1e82f292468c6541cc3bed"
+    },
+    "index.png": {
+      "bytes": 21443,
+      "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+    },
+    "index.wasm": {
+      "bytes": 39514754,
+      "sha256": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0"
+    },
+    "LICENSE": {
+      "bytes": 1077,
+      "sha256": "5ca2920d4f56954100c8f365461aba7b6c6154da49734f7b2703d9275ad49d11"
+    },
+    "NOTO_CJK_LICENSE.txt": {
+      "bytes": 5174,
+      "sha256": "21d53e1c8d68e4a156f6e563dc9e0f1d969d5c1d08765702cbd6c9e27c3ae567"
+    },
+    "RELEASE_NOTES.html": {
+      "bytes": 3882,
+      "sha256": "75e44c71e00c78ebdca8f7de83fdd557e9e7f7ed9cd6ce64344b615e88e75c33"
+    },
+    "RELEASE_NOTES.md": {
+      "bytes": 3181,
+      "sha256": "18b3eb1ef72f6ea994eca67b41d9a2cf315f7b8511bc85cca9ac2eeb07c02689"
+    },
+    "SOURCE.zip": {
+      "bytes": 15870575,
+      "sha256": "1cb7dc86846aa7197f707b5f82742b6ddc176f79d8f0e432e5e783825defeb76"
+    }
+  },
+  "source_assets_scripts_file_map_sha256": "6d8f2f223ae05496703eb93aaec1eef0662c8914d83112092b6812b575167022"
+}
