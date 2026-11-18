@@ -1,0 +1,80 @@
+{
+  "schema_version": 3,
+  "package_name": "friend-beta-20261117",
+  "build_id": "career-beta-20261117",
+  "save_schema_version": 23,
+  "runtime_reused_from": "friend-beta-20261113",
+  "tested_scope": [
+    "existing v23 roundtrip with 47 archives",
+    "guided creation and display preferences",
+    "paired native JGP across dispatch threshold",
+    "one confirmed free-skate review",
+    "strict score, RNG, archive and dispatch persistence"
+  ],
+  "files": {
+    "GODOT_COPYRIGHT.txt": {
+      "bytes": 98556,
+      "sha256": "13e07fb4258f20b7c66ba45409755d8925ce0b56e13b6a088f94676fd30744a9"
+    },
+    "GODOT_LICENSE.txt": {
+      "bytes": 1171,
+      "sha256": "db55c33d1a9c3d64232eb7a3cf0ff36dcbbf4b913626ffab6ac12c2cd8888d32"
+    },
+    "index.apple-touch-icon.png": {
+      "bytes": 11944,
+      "sha256": "01d4f63e525941e06ce74f5187dad030d20a8d52a07ce365ae4e94af97a3b1f5"
+    },
+    "index.audio.position.worklet.js": {
+      "bytes": 3039,
+      "sha256": "0fba97ee348ded832bdb5eb295a4cec212174938c0c92f28b93962b47a71a2ea"
+    },
+    "index.audio.worklet.js": {
+      "bytes": 7511,
+      "sha256": "aeac7d92d70ead1cd09b4573ee43cd6660f85915852650dfc2a80c9de94145ac"
+    },
+    "index.html": {
+      "bytes": 6292,
+      "sha256": "69a99ebca090e8804bba91043f79f08c73a2b478d5579b16772b92fcda025c54"
+    },
+    "index.icon.png": {
+      "bytes": 5700,
+      "sha256": "ad3c35ad0facf487c618204bd98db543034fc95224eadc7f08c7a9ff38d5b3b5"
+    },
+    "index.js": {
+      "bytes": 282805,
+      "sha256": "2200675ea15479007dac96773c247d712d960b577e3206bbbbe85f3735af8d2c"
+    },
+    "index.pck": {
+      "bytes": 17197292,
+      "sha256": "ba83c9ede30cdc787d4057c2fe814e23f9d05fda81e5dd32d19fc20a66eaf2c4"
+    },
+    "index.png": {
+      "bytes": 21443,
+      "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+    },
+    "index.wasm": {
+      "bytes": 39514754,
+      "sha256": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0"
+    },
+    "LICENSE": {
+      "bytes": 1077,
+      "sha256": "5ca2920d4f56954100c8f365461aba7b6c6154da49734f7b2703d9275ad49d11"
+    },
+    "NOTO_CJK_LICENSE.txt": {
+      "bytes": 5174,
+      "sha256": "21d53e1c8d68e4a156f6e563dc9e0f1d969d5c1d08765702cbd6c9e27c3ae567"
+    },
+    "RELEASE_NOTES.html": {
+      "bytes": 1456,
+      "sha256": "731f1a77f8e37fcf815f7cc3c670054406e53baf2a0afe62b73ee6e7f211012e"
+    },
+    "RELEASE_NOTES.md": {
+      "bytes": 1082,
+      "sha256": "c87ec486183340831c46a1fe301ec4f2eb4811159c6a6f5c7e93d8410354d18a"
+    },
+    "SOURCE.zip": {
+      "bytes": 16405517,
+      "sha256": "7bce611f310bb8fe68bec6983e3e333ce3e4e321fbbe9956712b8e54fe85d97d"
+    }
+  }
+}

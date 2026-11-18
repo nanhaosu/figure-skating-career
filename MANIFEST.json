@@ -1,8 +1,8 @@
 {
   "schema_version": 3,
   "kind": "release_index",
-  "current_release": "friend-beta-20261113",
-  "current_build_id": "career-beta-20261113",
-  "manifest": "releases/friend-beta-20261113/MANIFEST.json",
+  "current_release": "friend-beta-20261117",
+  "current_build_id": "career-beta-20261117",
+  "manifest": "releases/friend-beta-20261117/MANIFEST.json",
   "old_releases_preserved": true
 }
